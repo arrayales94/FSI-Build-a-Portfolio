@@ -1,0 +1,25 @@
+div {
+    text-align: center;
+  }
+
+h1{
+    color:red
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+  text-align:center
+}
+h1 {
+    font-size: 50px;
+  }
+
+body {
+    background-color: lightblue;
+  }
+
+  div {
+    cursor:alias;
+}
